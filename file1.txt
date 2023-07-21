@@ -1,5 +1,8 @@
 My name is Yash Tripathi
 I work in LUMIQ.ai 
+<<<<<<< HEAD
 I live in Kanpur , UP
 I work in LUMIQ.ai
 I live in Kanpur 
+=======
+>>>>>>> parent of 21101cd... Made changes in feature_branch
