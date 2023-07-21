@@ -1,3 +1,8 @@
 My name is Yash Tripathi
+<<<<<<< HEAD
 I work in LUMIQ.ai 
 I live in Kanpur , UP
+=======
+I work in LUMIQ.ai
+I live in Kanpur 
+>>>>>>> feature_branch
